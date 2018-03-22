@@ -435,6 +435,233 @@
         "Sainte-Rose",
         "Saint-Michel-sur-Orge"]
     },
+	{
+        "nom":"Albanie",
+        "villes": [
+        "Tirana"]
+    },
+	{
+        "nom":"Allemagne",
+        "villes": [
+        "Berlin",
+        "Francfort ",
+        "Munich",
+        "Hambourg",
+        "Dortmund "]
+    },
+	{
+        "nom":"Armenie",
+        "villes": [
+        "Yerevan",
+        "Gyumri "]
+    },
+	{
+        "nom":"Azerbaidjan",
+        "villes": [
+        "Bakou",
+        "Gandja ",
+        "Nakhitchevan"]
+    },
+	{
+        "nom":"Autriche",
+        "villes": [
+        "Graz",
+        "Klagenfurt ",
+        "Innsbruck"]
+    },
+	{
+        "nom":"Bielorussie",
+        "villes": [
+        "Minsk"]
+    },
+	{
+        "nom":"Belgique",
+        "villes": [
+        "Anvers",
+        "Bruxelles ",
+        "Charleroi"]
+    },
+	{
+        "nom":"Bosnie-Herzegovine",
+        "villes": [
+        "Banja",
+        "Sarajevo ",
+        "Tuzla"]
+    },
+	{
+        "nom":"Bulgarie",
+        "villes": [
+        "Bourgas",
+        "Plovdiv ",
+        "Sofia"]
+    },
+	{
+        "nom":"Crotie",
+        "villes": [
+        "Zagreb"]
+    },
+	{
+        "nom":"Chypre",
+        "villes": [
+        "Nicosie"]
+    },
+	{
+        "nom":"Danemark",
+        "villes": [
+        "Copenhague"]
+    },
+	{
+        "nom":"Espagen",
+        "villes": [
+        "Madrid"]
+    },
+	{
+        "nom":"Estonie",
+        "villes": [
+        "Tallin"]
+    },
+	{
+        "nom":"Finlande",
+        "villes": [
+        "Helsinki"]
+    },
+	{
+        "nom":"Grèce",
+        "villes": [
+        "Athènes"]
+    },
+	{
+        "nom":"Hongrie",
+        "villes": [
+        "Budapest"]
+    },
+	{
+        "nom":"Irlande",
+        "villes": [
+        "Dublin"]
+    },
+	{
+        "nom":"Islande",
+        "villes": [
+        "Reykjavik"]
+    },
+	{
+        "nom":"Italie",
+        "villes": [
+        "Rome"]
+    },
+	{
+        "nom":"Lettonie",
+        "villes": [
+        "Riga"]
+    },
+	{
+        "nom":"Liechtenstein",
+        "villes": [
+        "Vaduz"]
+    },
+	{
+        "nom":"Lituanie",
+        "villes": [
+        "Vilnius"]
+    },
+	{
+        "nom":"Luxembourg",
+        "villes": [
+        "Luxembourg"]
+    },
+	{
+        "nom":"Macedonie",
+        "villes": [
+        "Skopje"]
+    },
+	{
+        "nom":"Malte",
+        "villes": [
+        "La Valette"]
+    },
+	{
+        "nom":"Moldavie",
+        "villes": [
+        "Chisinau"]
+    },
+	{
+        "nom":"Monaco",
+        "villes": [
+        "Monaco"]
+    },
+	{
+        "nom":"Montenegro",
+        "villes": [
+        "Podgorcia"]
+    },
+	{
+        "nom":"Norvege",
+        "villes": [
+        "Oslo"]
+    },
+	{
+        "nom":"Pays-Bas",
+        "villes": [
+        "Amsterdam"]
+    },
+	{
+        "nom":"Pologne",
+        "villes": [
+        "Varsovie"]
+    },
+	{
+        "nom":"Portugal",
+        "villes": [
+        "Lisbonne"]
+    },
+	{
+        "nom":"Republique tcheque",
+        "villes": [
+        "Prague"]
+    },
+	{
+        "nom":"Roumanie",
+        "villes": [
+        "Bucarest"]
+    },
+	{
+        "nom":"Royaume-Uni",
+        "villes": [
+        "Londres"]
+    },
+	{
+        "nom":"Russie",
+        "villes": [
+        "Moscou"]
+    },
+	{
+        "nom":"Serbie",
+        "villes": [
+        "Belgrade"]
+    },
+	{
+        "nom":"Slovaquie",
+        "villes": [
+        "Bratislava"]
+    },
+	{
+        "nom":"Slovenie",
+        "villes": [
+        "Ljubljana"]
+    },
+	{
+        "nom":"Suede",
+        "villes": [
+        "Berne"]
+    },
+	{
+        "nom":"Ukraine",
+        "villes": [
+        "Kiev"]
+    },
+
+
     {
         "nom":"Madagascar",
         "villes": [
@@ -443,5 +670,673 @@
         "Majunga",
         "Tuléar",
         "Diégo-Suarez"]
-}
-    ]
+    },
+    {
+        "nom":"Algerie",
+        "villes": [
+        "Alger",
+        "Annaba",
+        "Constantine",
+        "Oran",
+        "Biskra",
+        "Bejaia",
+        "Setif",
+        "Chlef",
+        "Tlemcen",
+        "Jijel"]
+    },
+    {
+        "nom":"Tunisie",
+        "villes": [
+        "Tunis",
+        "Djerba",
+        "Enfida",
+        "Gafsa",
+        "Monastir",
+        "Sfax",
+        "Tabarka",
+        "Tozeur"]
+    },
+    {
+        "nom":"Maroc",
+        "villes": [
+        "Nouaceur",
+        "Marrakech",
+        "Agadir",
+        "Fes",
+        "Tanger",
+        "Sale",
+        "Nador",
+        "Oujda",
+        "Laayoune",
+        "Dakhla",
+        "Essaouira",
+        "Ouarzazate",
+        "Al Hoceima"]
+    },
+    {
+        "nom":"Egypte",
+        "villes": [
+        "Le Caire",
+        "Hurghada",
+        "Marsa Alam",
+        "El-Arich",
+        "Louxor",
+        "Charm el-Cheikh"]
+    },
+    {
+        "nom":"Libye",
+        "villes": [
+        "Tripoli",
+        "Milaga",
+        "Benina"]
+    },
+    {
+        "nom":"Mauritanie",
+        "villes": [
+        "Nouakchott"]
+    },
+    {
+        "nom":"Mali",
+        "villes": [
+        "Tombouctou",
+        "Mopti Ambodejo",
+        "Bamako"]
+    },
+    {
+        "nom":"Soudan",
+        "villes": [
+        "Khartoum"]
+    },
+    {
+        "nom":"Tchad",
+        "villes": [
+        "N'Djamena"]
+    },
+    {
+        "nom":"Congo",
+        "villes": [
+        "Goma",
+        "Kinshasa",
+        "Kisangani",
+        "Tuléar",
+        "Lubumbashi"]
+    },
+    {
+        "nom":"Republique du Congo",
+        "villes": [
+        "Brazzaville",
+        "Pointe-Noire"]
+    },
+    {
+        "nom":"Guinee Equatoriale",
+        "villes": [
+        "Malabo"]
+    },
+    {
+        "nom":"Gabon",
+        "villes": [
+        "Libreville",
+        "Port-Gentil",
+        "Franceville"]
+    },
+    {
+        "nom":"Sao Tome",
+        "villes": [
+        "Sao Tome"]
+    },
+    {
+        "nom":"Burundi",
+        "villes": [
+        "Bujumbura"]
+    },
+    {
+        "nom":"Comores",
+        "villes": [
+        "Hahaya"]
+    },
+     {
+        "nom":"Kenya",
+        "villes": [
+        "Eldoret",
+        "Mombasa",
+        "Kisumu",
+        "Nairobi"]
+    },
+     {
+        "nom":"Maurice",
+        "villes": [
+        "Plaine"]
+    },
+     {
+        "nom":"La Reunion",
+        "villes": [
+        "Sainte-Marie"]
+    },
+     {
+        "nom":"Rwanda",
+        "villes": [
+        "Kigali"]
+    },
+     {
+        "nom":"Seychelles",
+        "villes": [
+        "Victoria"]
+    },
+     {
+        "nom":"Soudan du Sud",
+        "villes": [
+        "Djouba"]
+    },
+     {
+        "nom":"Tanzanie",
+        "villes": [
+        "Dar es Salem",
+        "Arusha",
+        "Moshi",
+        "Unguja/Zanzibar"]
+    },
+     {
+        "nom":"Ouganda",
+        "villes": [
+        "Entebbe"]
+    },
+    {
+        "nom":"Djibouti",
+        "villes": [
+        "Djibouti"]
+    },
+     {
+        "nom":"Erythree",
+        "villes": [
+        "Asmara"]
+    },
+     {
+        "nom":"Ethiopie",
+        "villes": [
+        "Addis-Abeba",
+        "DIre Dawa"]
+    },
+     {
+        "nom":"Somalie",
+        "villes": [
+        "Bosasso",
+        "Gaal Kacyo",
+        "Garowe",
+        "Hargeisa",
+        "Mogadiscio"]
+    },
+     {
+        "nom":"Tanzanie",
+        "villes": [
+        "DaresSalem",
+        "Arusha",
+        "Moshi",
+        "Ungujaanzibar"]
+    },
+     {
+        "nom":"Afrique du Sude",
+        "villes": [
+        "Le Cap",
+        "Durban",
+        "Johannesburg",
+        "Nelspruit"]
+    },
+     {
+        "nom":"Angola",
+        "villes": [
+        "Luanda",
+        "Lubango"]
+    },
+     {
+        "nom":"Botswana",
+        "villes": [
+        "Gaborone",
+        "Maun",
+        "Francistown",
+        "Kasane"]
+    },
+     {
+        "nom":"Lesotho",
+        "villes": [
+        "Maseru"]
+    },
+     {
+        "nom":"Malawi",
+        "villes": [
+        "Blantyre",
+        "Lilongwe"]
+    },
+     {
+        "nom":"Mayotte",
+        "villes": [
+        "Dzaoudzi"]
+    },
+     {
+        "nom":"Mozambique",
+        "villes": [
+        "Maputo"]
+    },
+     {
+        "nom":"Namibie",
+        "villes": [
+        "Windhoek"]
+    },
+     {
+        "nom":"Sawaziland",
+        "villes": [
+        "Manzini"]
+    },
+     {
+        "nom":"Zambie",
+        "villes": [
+        "Livingstone",
+        "Lusaka"]
+    },
+     {
+        "nom":"Zimbabwe",
+        "villes": [
+        "Harare",
+        "Bulamayo"]
+    },
+     {
+        "nom":"Benin",
+        "villes": [
+        "Cotonou"]
+    },
+     {
+        "nom":"Burkina Faso",
+        "villes": [
+        "Bobo-Dioulasso",
+        "Ouagadougou"]
+    },
+     {
+        "nom":"Cameroun",
+        "villes": [
+        "Douala",
+        "Yaounde"]
+    },
+     {
+        "nom":"Cap-Vert",
+        "villes": [
+        "Boa Vista",
+        "Sal",
+        "Praia",
+        "Sao Vicente"]
+    },
+     {
+        "nom":"Centrafrique",
+        "villes": [
+        "Bangui"]
+    },
+     {
+        "nom":"Cote d'Ivoire",
+        "villes": [
+        "Abidjan"]
+    },
+     {
+        "nom":"Gambie",
+        "villes": [
+        "Banjul"]
+    },
+     {
+        "nom":"Ghana",
+        "villes": [
+        "Accra",
+        "Tamale"]
+    },
+     {
+        "nom":"Guinee-Conakry",
+        "villes": [
+        "Conacry"]
+    },
+     {
+        "nom":"Guinee-Bissau",
+        "villes": [
+        "Bissau",
+        "Bafata",
+        "Bubaque",
+        "Cufar"]
+    },
+     {
+        "nom":"Liberia",
+        "villes": [
+        "Monrovia"]
+    },
+     {
+        "nom":"Niger",
+        "villes": [
+        "Niamey"]
+    },
+     {
+        "nom":"Nigeria",
+        "villes": [
+        "Abuja",
+        "Kano",
+        "Lagos",
+        "Port Harcourt"]
+    },
+     {
+        "nom":"Senegal",
+        "villes": [
+        "Dakar"]
+    },
+     {
+        "nom":"Sierra Leone",
+        "villes": [
+        "Freetown"]
+    },
+     {
+        "nom":"Tago",
+        "villes": [
+        "Lome",
+        "Niamtougou"]
+    },
+
+
+	
+	{
+        "nom":"Bangladesh",
+        "villes": [
+        "Daccan"]
+    },
+	{
+        "nom":"Birmanie",
+        "villes": [
+        "Rangoun"]
+    },
+	{
+        "nom":"Cambodge",
+        "villes": [
+        "Phenom Penh"]
+    },
+	{
+        "nom":"Chine",
+        "villes": [
+        "Pekin"]
+    },
+	{
+        "nom":"Corée du Nord",
+        "villes": [
+        "Pyongyang"]
+    },
+	{
+        "nom":"Corée du Sud",
+        "villes": [
+        "Séoul"]
+    },
+	{
+        "nom":"Inde",
+        "villes": [
+        "New Delhi"]
+    },
+	{
+        "nom":"Japon",
+        "villes": [
+        "Tokya"]
+    },
+	{
+        "nom":"Laos",
+        "villes": [
+        "Vientiane"]
+    },
+	{
+        "nom":"Malaisie",
+        "villes": [
+        "Kuala Lupmpur"]
+    },
+	{
+        "nom":"Maldives",
+        "villes": [
+        "Malé"]
+    },
+	{
+        "nom":"Mongolie",
+        "villes": [
+        "Oulan-Bator"]
+    },
+	{
+        "nom":"Népal",
+        "villes": [
+        "Katmandou"]
+    },
+	{
+        "nom":"Philippines",
+        "villes": [
+        "Manille"]
+    },
+	{
+        "nom":"Singapour",
+        "villes": [
+        "Singapour"]
+    },
+	{
+        "nom":"Sri Lanka",
+        "villes": [
+        "Colombo"]
+    },
+	{
+        "nom":"Thailande",
+        "villes": [
+        "Bangkok"]
+    },
+	{
+        "nom":"Tibet",
+        "villes": [
+        "Lhassa"]
+    },
+	{
+        "nom":"Viet Nam",
+        "villes": [
+        "Hanoi"]
+    },
+	{
+        "nom":"Indonésie",
+        "villes": [
+        "Jakarta"]
+    },
+
+	{
+        "nom":"Afghanistan",
+        "villes": [
+        "Kaboul"]
+    },
+	{
+        "nom":"Arabie saoudite",
+        "villes": [
+        "Riyad"]
+    },
+	{
+        "nom":"Armenie",
+        "villes": [
+        "Erevan"]
+    },
+	{
+        "nom":"Azerbaidjan",
+        "villes": [
+        "Bakou"]
+    },
+	{
+        "nom":"Bahrein",
+        "villes": [
+        "Manama"]
+    },
+	{
+        "nom":"Emirates arabes unis",
+        "villes": [
+        "Abou Dhabi"]
+    },
+	{
+        "nom":"Georgie",
+        "villes": [
+        "Tbilissi"]
+    },
+	{
+        "nom":"Irak",
+        "villes": [
+        "Bagdad"]
+    },
+	{
+        "nom":"Iran",
+        "villes": [
+        "Teheran"]
+    },
+	{
+        "nom":"Jordanie",
+        "villes": [
+        "Amman"]
+    },
+	{
+        "nom":"Kazakhstan",
+        "villes": [
+        "Astana Almaty"]
+    },
+	{
+        "nom":"Kirghizistan",
+        "villes": [
+        "Bichkek"]
+    },
+	{
+        "nom":"Koweit",
+        "villes": [
+        "Koweit"]
+    },
+	{
+        "nom":"Liban",
+        "villes": [
+        "Beyrouth"]
+    },
+	{
+        "nom":"Oman",
+        "villes": [
+        "Mascate"]
+    },
+	{
+        "nom":"Ouzbekistan",
+        "villes": [
+        "Tachkent"]
+    },
+	{
+        "nom":"Pakistan",
+        "villes": [
+        "Islamabad"]
+    },
+	{
+        "nom":"Qatar",
+        "villes": [
+        "Doha"]
+    },
+	{
+        "nom":"Syrie",
+        "villes": [
+        "Damas"]
+    },
+	{
+        "nom":"Tadjikistan",
+        "villes": [
+        "Douchanbe"]
+    },
+	{
+        "nom":"Turkmenistan",
+        "villes": [
+        "Achgabat"]
+    },
+	{
+        "nom":"Turquie",
+        "villes": [
+        "Ankara"]
+    },
+	{
+        "nom":"Yemen",
+        "villes": [
+        "Sanaa"]
+    },
+	{
+        "nom":"Palestine",
+        "villes": [
+        "Jerusalem"]
+    },
+
+
+
+	{
+        "nom":"Argentine",
+        "villes": [
+        "Buenos Aires"]
+    },
+	{
+        "nom":"Bahamas",
+        "villes": [
+        "Nassau"]
+    },
+	{
+        "nom":"Barbade",
+        "villes": [
+        "Bridgetown"]
+    },
+	{
+        "nom":"Bolivie",
+        "villes": [
+        "Sucre"]
+    },
+	{
+        "nom":"Bresil",
+        "villes": [
+        "Brasilia"]
+    },
+	{
+        "nom":"Canada",
+        "villes": [
+        "Ottawa"]
+    },
+	{
+        "nom":"Chili",
+        "villes": [
+        "Santiago"]
+    },
+	{
+        "nom":"Colombie",
+        "villes": [
+        "Bogota"]
+    },
+	{
+        "nom":"Costa Rica",
+        "villes": [
+        "San Jose"]
+    },
+	{
+        "nom":"Cuba",
+        "villes": [
+        "La Havane"]
+    },
+	{
+        "nom":"Dominique",
+        "villes": [
+        "Roseau"]
+    },
+	{
+        "nom":"Equateur",
+        "villes": [
+        "Quito"]
+    },
+	{
+        "nom":"Etats-Unis",
+        "villes": [
+        "Washington"]
+    },
+	{
+        "nom":"Jamaique",
+        "villes": [
+        "Kingston"]
+    },
+	{
+        "nom":"Mexique",
+        "villes": [
+        "Mexico"]
+    },
+	{
+        "nom":"Uruguay",
+        "villes": [
+        "Montevideo"]
+    }
+]
